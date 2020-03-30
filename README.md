@@ -1,9 +1,10 @@
 ## Advent of Code - 2017 in Python
 This repository has been created for educational purposes.
-I'm teaching my fiancee the basics of computer programming in Python language. 
+I'm teaching my fiancee the basics of computer programming in Python language.
 The solution should be always easy and readable for the very beginner.
 
 All tasks are done as a series of unit tests.
+Tasks are taken from the game [Advent of Code](https://adventofcode.com/2017) for the year __2017__.
 
 ### Requirements
 The whole projest is developed in Python `v3.7.4`, 
