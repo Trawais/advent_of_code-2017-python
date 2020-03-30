@@ -7,3 +7,6 @@ __pycache__/
 
 # Unit Testing
 .pytest_cache
+
+# virtual environment folder
+venv
