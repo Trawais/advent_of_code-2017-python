@@ -11,6 +11,7 @@ The whole projest is developed in Python `v3.7.4`,
 but I believe any 3.* version of Python should work.
 
 ### Install
+#### MacOS
 Init your virtual environemt:
 ```
 virtualenv venv
@@ -25,7 +26,21 @@ Install all dependcies from `requirements.txt` file:
 ```
 pip install -r requirements.txt
 ```
+#### Windows
+Init your virtual environemt:
+```
+python -m venv venv
+```
 
+Activate the virtual environment:
+```
+venv\Scripts\activate
+```
+
+Install all dependcies from `requirements.txt` file: 
+```
+pip install -r requirements.txt
+```
 ### Run
 Run command
 ```

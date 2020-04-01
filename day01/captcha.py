@@ -26,8 +26,8 @@ def captcha_2(input):
             sum = sum + digits[index]
     return sum * 2
 
-def __process_input_string(input):
+def __process_input_string(vstup):
     digits = []
-    for digit in input:
+    for digit in vstup:
         digits.append(int(digit))
     return digits
